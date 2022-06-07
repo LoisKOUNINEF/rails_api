@@ -1,24 +1,12 @@
-# README
+<div>
+  <p align="center" width="100%">
+    <a href="https://www.thehackingproject.org/"><img width="33%" src="https://i0.wp.com/chromebooklive.com/wp-content/uploads/2018/11/the_hacking_project_logo.png?resize=620%2C171&ssl=1" width="20%" alt="thp_tlogo"/></a>
+  </p>
+</div>
+</br></br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Basic Rails Api
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- User : Authenticate, register...
+- Articles : Update restricted to author
